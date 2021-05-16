@@ -8,7 +8,7 @@ namespace TestConsoleCSharp
 {
     class Program
     {
-        //db file is in @"C:\D\SDK\SqliteTestDb.db"
+      
         static void Main(string[] args)
         {
 
